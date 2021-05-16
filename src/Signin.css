@@ -1,0 +1,42 @@
+.signinbox {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  background-color: cornsilk;
+  width: 50vh;
+  height: 70vh;
+  border-radius: 30px;
+  border: 1px solid brown;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  background-color: paleturquoise;
+  color: cornsilk;
+}
+input {
+  width: 30vh;
+  height: 3vh;
+  border-radius: 200px;
+}
+
+button {
+  width: 15vh;
+  height: 5vh;
+  align-self: center;
+  background-color: gray;
+  color: cornsilk;
+  margin-bottom: 5vh;
+}
+button:hover {
+  background: green;
+}
+#link1 {
+  font-size: larger;
+  color: black;
+}
+#link1:hover {
+  color: green;
+}

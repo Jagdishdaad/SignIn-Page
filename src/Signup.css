@@ -1,0 +1,20 @@
+.signupbox {
+  margin-top: -5vh;
+  width: 60vh;
+  min-height: 80vh;
+  background-color: cornsilk;
+
+  border-radius: 30px;
+  border: 1px solid brown;
+}
+#gender {
+  width: 5vh;
+}
+#genderI {
+  margin-left: 5vh;
+  width: 50vh;
+  border: 2px solid paleturquoise;
+}
+input {
+  border-color: paleturquoise;
+}
